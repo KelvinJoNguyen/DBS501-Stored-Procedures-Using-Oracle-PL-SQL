@@ -1,0 +1,22 @@
+Testing staff_pick package
+
+Calling staff_add
+INSERTED:
+ID: 360
+Name: Osborn
+Dept: 90
+Job: Mgr
+Years: 1
+Salary: $60000
+Commission: $800
+
+
+Calling total_cmp
+Total comp for emp 350: $47333.55
+
+Calling fun_name
+Remixed name: GaFnEy
+
+
+PL/SQL procedure successfully completed.
+

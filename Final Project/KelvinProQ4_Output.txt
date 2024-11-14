@@ -1,0 +1,13 @@
+Testing total_comp
+
+Total comp for emp 350: $43218.5
+
+Total comp for emp 340: $69129
+
+error handling, invalid id
+Employee Not Found
+Employee Not Found
+
+
+PL/SQL procedure successfully completed.
+

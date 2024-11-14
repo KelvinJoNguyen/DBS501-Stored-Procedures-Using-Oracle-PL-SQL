@@ -1,0 +1,38 @@
+Testing staff_add
+
+Valid record
+INSERTED:
+ID: 360
+Name: Osborn
+Dept: 90
+Job: Mgr
+Years: 1
+Salary: $60000
+Commission: $800
+
+INSERTED:
+ID: 370
+Name: Parker
+Dept: 90
+Job: Sales
+Years: 1
+Salary: $40000
+Commission: $500
+
+
+Invalid record with no name
+ERROR: Employee name cannot be NULL.
+
+Invalid record with wrong job 
+ERROR: Job input must be Sales, Clerk or Mgr.
+
+Invalid record with no salary
+ERROR: Salary cannot be 0.
+
+Invalid record with no commission
+ERROR: Commision cannot be 0.
+
+
+
+PL/SQL procedure successfully completed.
+
