@@ -1,0 +1,38 @@
+even_odd procedure started:
+------------------------------
+5 is an odd number.
+6 is an even number.
+------------------------------
+
+factorial procedure started:
+------------------------------
+5!= fact(5)=5*4*3*2*=120
+------------------------------
+
+calculate_salary started:
+------------------------------
+First Name: Liam
+Last Name: Henderson
+Salary: $14071
+
+calculate_salary error handling:
+------------------------------
+Employee Not Found
+------------------------------
+
+find_employee started:
+------------------------------
+First Name: Liam
+Last Name: Henderson
+Email: liam.henderson@example.com
+Phone: 650.123.2234
+Hire date: 16-04-10
+Job Title: Stock Manager
+
+find_employee error handling:
+------------------------------
+Employee Not Found
+
+
+PL/SQL procedure successfully completed.
+

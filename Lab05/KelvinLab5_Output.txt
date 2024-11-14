@@ -1,0 +1,31 @@
+Lab 5 Demo
+--------------------------------
+
+Successful insert
+ Inserting: 351, Smith, 84, Sales, NULL, 50000, 10000
+
+Insert breaking rule A
+352, Nguyen, 66, Clerk, NULL, 50000, 25000
+
+Insert breaking rule B
+353, Kent, 10, Sales, NULL, 10000, 2000
+
+Insert breaking rule A and B
+354, Wayne, 42, Sales, NULL, 10000, 5000
+
+Successful update
+ Updating: ID 200
+
+Update breaking rule A
+ Updating: ID 220
+
+Update breaking rule B
+ Updating: ID 230
+
+Update breaking rule A and B
+ Updating: ID 250
+
+
+
+PL/SQL procedure successfully completed.
+

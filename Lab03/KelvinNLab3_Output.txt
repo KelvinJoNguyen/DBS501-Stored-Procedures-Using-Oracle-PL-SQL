@@ -1,0 +1,128 @@
+array_date procedure started:
+--------------------------------
+Wednesday, February  02, 2022
+Monday   , February  07, 2022
+Monday   , February  14, 2022
+Saturday , April     02, 2022
+Thursday , April     07, 2022
+Thursday , April     14, 2022
+
+--------------------------------
+
+Error handling demonstration: too many values
+--------------------------------
+Invalid array size
+Error handling demonstration: Wrong values
+--------------------------------
+The first array must have numbers between 1 and 31, and the second array must have numbers between 1 and 12.
+name_fun procedure started:
+--------------------------------
+P*yn*++++++++++
+St*ph*ns+++++++
+D*nn+++++++++++
+B**l*y+++++++++
+C**p*r+++++++++
+R*v*r*+++++++++
+R*m*r*z++++++++
+Gr*y+++++++++++
+Br**ks+++++++++
+J*m*s++++++++++
+W*ts*n+++++++++
+P*t*rs*n+++++++
+Sp*nc*r++++++++
+R*ch*rds*n+++++
+C*x++++++++++++
+T*rr*s+++++++++
+W*rd+++++++++++
+H*w*rd+++++++++
+P*rk*ns++++++++
+H*ds*n+++++++++
+G*rdn*r++++++++
+Pr*c*++++++++++
+S*nd*rs++++++++
+B*nn*tt++++++++
+W**d+++++++++++
+B*rn*s+++++++++
+K*lly++++++++++
+C*l*+++++++++++
+W**ds++++++++++
+W*ll*c*++++++++
+S*ll*v*n+++++++
+W*st+++++++++++
+H*rr*s*n+++++++
+G*bs*n+++++++++
+Mcd*n*ld+++++++
+Cr*z+++++++++++
+M*rsh*ll+++++++
+G*m*z++++++++++
+D*x*n++++++++++
+Fr**m*n++++++++
+W*lls++++++++++
+W*bb+++++++++++
+S*mps*n++++++++
+St*v*ns++++++++
+T*ck*r+++++++++
+P*rt*r+++++++++
+H*nt*r+++++++++
+H*cks++++++++++
+Cr*wf*rd+++++++
+H*nry++++++++++
+B*yd+++++++++++
+M*s*n++++++++++
+M*r*l*s++++++++
+K*nn*dy++++++++
+W*rr*n+++++++++
+F*sh*r+++++++++
+R*yn*lds+++++++
+J*rd*n+++++++++
+M*rr*y+++++++++
+Sh*w+++++++++++
+H*lm*s+++++++++
+R*c*+++++++++++
+R*b*rts*n++++++
+H*nt+++++++++++
+Bl*ck++++++++++
+D*n**ls++++++++
+P*lm*r+++++++++
+M*lls++++++++++
+N*ch*ls++++++++
+Gr*nt++++++++++
+Kn*ght+++++++++
+F*rg*s*n+++++++
+R*s*+++++++++++
+St*n*++++++++++
+H*wk*ns++++++++
+R*m*s++++++++++
+R*y*s++++++++++
+B*rns++++++++++
+G*rd*n+++++++++
+S*mm*ns++++++++
+H*m*lt*n+++++++
+F*rd+++++++++++
+My*rs++++++++++
+H*y*s++++++++++
+P*w*ll+++++++++
+L*ng+++++++++++
+P*tt*rs*n++++++
+H*gh*s+++++++++
+Fl*r*s+++++++++
+W*sh*ngt*n+++++
+B*tl*r+++++++++
+Gr*h*m+++++++++
+F*st*r+++++++++
+G*nz*l*s+++++++
+Bry*nt+++++++++
+R*ss*ll++++++++
+Gr*ff*n++++++++
+D**z+++++++++++
+P*rry++++++++++
+J*nk*ns++++++++
+C*l*m*n++++++++
+H*nd*rs*n++++++
+R*ss+++++++++++
+--------------------------------
+
+
+
+PL/SQL procedure successfully completed.
+

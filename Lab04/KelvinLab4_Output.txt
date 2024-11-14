@@ -1,0 +1,48 @@
+Lab 4
+--------------------------------
+
+Demo of pig_latin UDF
+--------------------------------
+
+UDF call on Annabelle
+--------------------------------
+nnabelleaay
+--------------------------------
+
+UDF call on Summer
+--------------------------------
+Summeray
+--------------------------------
+
+Demo of pig_latin UDF error handling- Invalid employee name 
+--------------------------------
+Employee Not Found! Please enter an employee's name
+--------------------------------
+
+Demo of experience UDF
+--------------------------------
+
+UDF call on 3 years
+--------------------------------
+ Junior
+--------------------------------
+
+UDF call on 7 years
+--------------------------------
+ Intermediate
+--------------------------------
+
+UDF call on 10 years
+--------------------------------
+ Experienced
+--------------------------------
+
+Demo of experience UDF error handling- Invalid employee year 
+--------------------------------
+No employee with 30 years of experience
+--------------------------------
+
+
+
+PL/SQL procedure successfully completed.
+
