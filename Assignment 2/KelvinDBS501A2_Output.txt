@@ -1,0 +1,47 @@
+Assignment 2
+--------------------------------
+
+Demo of my_median UDF
+--------------------------------
+
+Even Numbers:
+49545
+
+Odd Numbers:
+10
+
+Empty List:
+ERROR INPUT LIST IS EMPTY
+
+
+Demo of my_mode UDF
+--------------------------------
+
+No Modes:
+No mode found
+
+One Mode:
+Mode = 5
+
+Two Modes:
+Mode = 68420,35900
+
+Multiple Modes:
+Mode = 4,5,20
+
+Empty List:
+ERROR INPUT LIST IS EMPTY
+
+Demo of my_math_all UDF
+--------------------------------
+Median: 49545
+Mode = 68420,35900
+Mean: 58155.36
+
+Empty List:
+ERROR INPUT LIST IS EMPTY
+
+
+
+PL/SQL procedure successfully completed.
+
