@@ -1,0 +1,50 @@
+Assignment 1 Part 2
+--------------------------------
+
+Call om emp 200340 Roy with rating 1:
+--------------------------------
+Empployee Num: 200340
+Old Salary: 31840
+Old Bonus: 500
+Old Commision: 1907
+New Salary: 41840
+New Bonus: 800
+New Commision: 3499
+--------------------------------
+
+Call om emp 200330 Helena with rating 2:
+--------------------------------
+Empployee Num: 200330
+Old Salary: 35370
+Old Bonus: 500
+Old Commision: 2030
+New Salary: 40370
+New Bonus: 700
+New Commision: 2737.4
+--------------------------------
+
+Call om emp 200310 Michelle with rating 3:
+--------------------------------
+Empployee Num: 200310
+Old Salary: 35900
+Old Bonus: 300
+Old Commision: 1272
+New Salary: 37900
+New Bonus: 300
+New Commision: 1272
+--------------------------------
+
+Error handling invalid employee number:
+--------------------------------
+Employee Not Found
+--------------------------------
+
+Error handling invalid rating:
+--------------------------------
+Error, Input rating from 1-3
+--------------------------------
+
+
+
+PL/SQL procedure successfully completed.
+

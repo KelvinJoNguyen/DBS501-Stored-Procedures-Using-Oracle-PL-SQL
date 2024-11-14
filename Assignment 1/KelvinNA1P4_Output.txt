@@ -1,0 +1,155 @@
+Assignment 1 Part 4
+------------------------------------------------------
+
+1. find_customer – with a valid customer ID
+------------------------------------------------------
+Customer with ID 23 found: DTE Energy
+------------------------------------------------------
+
+2. find_customer – with a invalid customer ID
+------------------------------------------------------
+Error customer not found.
+------------------------------------------------------
+
+3. find_product – with a valid product ID
+------------------------------------------------------
+Product ID- 8 : $672.63
+------------------------------------------------------
+
+4. find_product – with a invalid product ID
+------------------------------------------------------
+Product Not Found
+------------------------------------------------------
+
+5. add_order – with a valid customer ID
+------------------------------------------------------
+Customer with ID 1 found: Raytheon
+Order: 111 added
+Customer: 1
+Order status: Shipped
+Salesman: 56
+Date ordered: 2024-03-07 14:41:00
+------------------------------------------------------
+
+6. add_order – with a invalid customer ID
+------------------------------------------------------
+Error customer not found.
+------------------------------------------------------
+
+7. add_order_item – should execute successfully 5 times
+------------------------------------------------------
+Adding: 
+Product ID- 1 : $693.83
+QTY: 3
+
+Adding: 
+Product ID- 3 : $865.94
+QTY: 6
+
+Adding: 
+Product ID- 18 : $864.87
+QTY: 10
+
+Adding: 
+Product ID- 21 : $811.82
+QTY: 12
+
+Adding: 
+Product ID- 25 : $113.53
+QTY: 15
+
+------------------------------------------------------
+
+8. add_order_item – should execute with an invalid order ID
+------------------------------------------------------
+Error: Invalid order ID. Please create new order before adding items
+------------------------------------------------------
+
+9. display_order – with a valid order ID which has at least 5 order items
+------------------------------------------------------
+Order summary:
+Order ID: 1
+Customer ID: 4
+------------------------
+Item ID: 1
+Product ID: 137
+Quantity: 116
+Price: $469.99
+------------------------
+Item ID: 2
+Product ID: 78
+Quantity: 77
+Price: $686.99
+------------------------
+Item ID: 3
+Product ID: 64
+Quantity: 52
+Price: $525.99
+------------------------
+Item ID: 4
+Product ID: 210
+Quantity: 87
+Price: $1029.99
+------------------------
+Item ID: 5
+Product ID: 138
+Quantity: 131
+Price: $645.99
+------------------------
+Item ID: 6
+Product ID: 126
+Quantity: 95
+Price: $640.99
+------------------------
+Item ID: 7
+Product ID: 30
+Quantity: 41
+Price: $645.2
+------------------------
+Item ID: 8
+Product ID: 170
+Quantity: 129
+Price: $383.98
+------------------------
+Item ID: 9
+Product ID: 196
+Quantity: 139
+Price: $1099.99
+------------------------
+Item ID: 10
+Product ID: 64
+Quantity: 147
+Price: $525.99
+------------------------
+Item ID: 11
+Product ID: 169
+Quantity: 105
+Price: $1844.89
+------------------------
+Item ID: 12
+Product ID: 226
+Quantity: 103
+Price: $309.85
+------------------------
+Item ID: 13
+Product ID: 178
+Quantity: 121
+Price: $1999.89
+------------------------
+Total Price: $1143716.87
+------------------------------------------------------
+
+10. display_order – with an invalid order ID
+------------------------------------------------------
+Order ID not found.
+------------------------------------------------------
+
+11. invalid master_proc call
+------------------------------------------------------
+Error: Invalid task
+------------------------------------------------------
+
+
+
+PL/SQL procedure successfully completed.
+

@@ -1,0 +1,62 @@
+Assignment 1 Part 3
+--------------------------------
+
+Call om emp 200340 Roy with ed level C:
+--------------------------------
+Empployee Num: 200340
+Old Education Level: 19
+New Education Level: 19
+--------------------------------
+
+Call om emp 200330 Helena with ed level H:
+--------------------------------
+Empployee Num: 200330
+Old Education Level: 16
+New Education Level: 16
+--------------------------------
+
+Call om emp 200310 Eilleen with ed level U:
+--------------------------------
+Empployee Num: 200280
+Old Education Level: 20
+New Education Level: 20
+--------------------------------
+
+Call om emp 200310 Robert with ed level M:
+--------------------------------
+Empployee Num: 200240
+Old Education Level: 23
+New Education Level: 23
+--------------------------------
+
+Call om emp 200310 Michelle with ed level P:
+--------------------------------
+Empployee Num: 200310
+Old Education Level: 25
+New Education Level: 25
+--------------------------------
+
+Error handling invalid employee number:
+--------------------------------
+Employee Not Found
+--------------------------------
+
+Error handling invalid edlevel input:
+--------------------------------
+Error, Input education level:
+H for Highschool Diploma
+C for College Diploma
+U for Univeristy Degree
+M for Masters
+P for PhD
+--------------------------------
+
+Error handling lower edlevel:
+--------------------------------
+Error: Education level cannot be decreased
+--------------------------------
+
+
+
+PL/SQL procedure successfully completed.
+
